@@ -4,13 +4,28 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Xem Video</title>
+  <style>
+    body {
+      background: #111;
+      color: white;
+      text-align: center;
+      font-family: sans-serif;
+      padding: 20px;
+    }
+    video {
+      border: 3px solid white;
+      border-radius: 12px;
+      margin-top: 20px;
+    }
+  </style>
 </head>
-<body style="background:#111; color:white; text-align:center; font-family:sans-serif;">
-  <h1>🎬 Video Demo</h1>
-  
+<body>
+  <h1>🎬 Video 2</h1>
+
   <video width="720" controls>
-  <source src="Video2.mp4" type="video/mp4">
-</video>
+    <source src="video2.mp4" type="video/mp4">
+    Trình duyệt không hỗ trợ phát video.
+  </video>
 
 </body>
 </html>
