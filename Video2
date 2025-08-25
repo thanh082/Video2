@@ -9,8 +9,8 @@
   <h1>🎬 Video Demo</h1>
   
   <video width="720" controls>
-    <source src="Video2.mp4" type="Video2/mp4">
-    Trình duyệt không hỗ trợ video.
-  </video>
+  <source src="video2.mp4" type="video/mp4">
+</video>
+
 </body>
 </html>
