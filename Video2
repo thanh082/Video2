@@ -20,10 +20,10 @@
   </style>
 </head>
 <body>
-  <h1>🎬 Video 2</h1>
+  <h1>🎬 Video2</h1>
 
   <video width="720" controls>
-    <source src="video2.mp4" type="video/mp4">
+    <source src="Video2.mp4" type="video/mp4">
     Trình duyệt không hỗ trợ phát video.
   </video>
 
